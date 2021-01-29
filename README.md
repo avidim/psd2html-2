@@ -1,1 +1,1 @@
-# psd2html-2
+# PSD to HTML project with provided PSD layout
